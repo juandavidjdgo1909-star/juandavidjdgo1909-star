@@ -33,7 +33,7 @@ Sistema completo de gestión de membresías y facturación con arquitectura MVC 
 ## 📫 Conecta conmigo
 
 <p align="center">
-  <a href="https://linkedin.com/in/www.linkedin.com/in/juan-david-garcia-olaya-js">
+  <a href="www.linkedin.com/in/juan-david-garcia-olaya-js">
     <img src="https://img.shields.io/badge/LinkedIn-Perfil-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
