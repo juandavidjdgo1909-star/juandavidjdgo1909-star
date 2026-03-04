@@ -1,16 +1,51 @@
-# Hola, soy Juan David 👋
+<h1 align="center">👋 Hola, soy Juan David Garcia Olaya</h1>
 
-🚀 Desarrollador Backend enfocado en Node.js y MongoDB  
-💻 Apasionado por la arquitectura MVC  
-📍 Colombia  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Desarrollador+Fullstack;Especialista+en+Node.js+y+React;Construyendo+SaaS+Escalables;Apasionado+por+la+Arquitectura+Limpia" />
+</p>
 
-## 🔥 Tecnologías
-- JavaScript (Vanilla)
-- Node.js
-- Express
-- MongoDB
-- HTML5
-- CSS3
+---
 
-## 📌 Proyectos Destacados
-- SaaS-Ticket – Sistema de membresías y facturación
+## 🚀 Sobre mí
+
+💻 Desarrollador Fullstack enfocado en backend con Node.js  
+🧠 Interesado en arquitectura escalable y buenas prácticas  
+🔐 Experiencia en autenticación con JWT y control de roles  
+📈 En constante aprendizaje sobre diseño de sistemas  
+
+---
+
+## 🛠 Tecnologías
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,react,js,git,github,vscode" />
+</p>
+
+---
+
+## 📊 Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=juandavidjdgo1909-star&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=juandavidjdgo1909-star&theme=tokyonight" />
+</p>
+
+---
+
+## 📌 Proyecto Destacado
+
+🚀 **SaaS-Ticket**  
+Sistema completo de gestión de membresías y facturación con arquitectura MVC + Services.
+
+---
+
+## 📫 Conecta conmigo
+
+<p align="center">
+  <a href="https://linkedin.com/in/TU_LINK">
+    <img src="https://img.shields.io/badge/LinkedIn-Perfil-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
