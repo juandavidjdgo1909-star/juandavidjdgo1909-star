@@ -41,7 +41,6 @@
 
 ### 🚀 SaaS-Ticket
 Sistema completo de gestión de membresías y facturación.  
-✔ Autenticación JWT  
 ✔ Control de roles  
 ✔ Arquitectura MVC + Services  
 ✔ Cálculo de ingresos mensuales  
@@ -55,6 +54,7 @@ Sistema completo de gestión de membresías y facturación.
 - Optimización y rendimiento
 - Arquitecturas distribuidas
 - Buenas prácticas en producción
+- JWT
 
 ---
 
