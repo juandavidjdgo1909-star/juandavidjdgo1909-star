@@ -9,8 +9,7 @@
 ## 🚀 Sobre mí
 
 💻 Desarrollador Fullstack con enfoque en Backend  
-🔐 Implementación de autenticación con JWT y control de roles  
-🧱 Trabajo con arquitectura MVC + Services  
+🔐 Implementación de autenticación con JWT y control de roles   
 📈 En constante aprendizaje sobre diseño de sistemas y buenas prácticas  
 🎯 Orientado a soluciones reales y proyectos productivos  
 
