@@ -27,7 +27,7 @@
 
 ### 🔹 Frontend
 - React
-- JavaScript (ES6+)
+- JavaScript (Vanilla js)
 - HTML5
 - CSS3
 
