@@ -21,6 +21,8 @@
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,react,js,git,github,vscode" />
 </p>
 
+---
+
 ## 📌 Proyecto Destacado
 
 🚀 **SaaS-Ticket**  
