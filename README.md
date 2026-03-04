@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hola, soy Juan David 👋
 
-<!--
-**juandavidjdgo1909-star/juandavidjdgo1909-star** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Desarrollador Backend enfocado en Node.js y MongoDB  
+💻 Apasionado por la arquitectura MVC y sistemas SaaS  
+📍 Colombia  
 
-Here are some ideas to get you started:
+## 🔥 Tecnologías
+- JavaScript
+- Node.js
+- Express
+- MongoDB
+- HTML5
+- CSS3
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Proyectos Destacados
+- SaaS-Ticket – Sistema de membresías y facturación
+- EventMaster – Gestión de eventos y reservas
