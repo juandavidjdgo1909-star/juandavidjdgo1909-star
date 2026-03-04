@@ -1,32 +1,74 @@
 <h1 align="center">👋 Hola, soy Juan David Garcia Olaya</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Desarrollador+Fullstack;Especialista+en+JavaScript+(Vanilla+js);Mejor+proyecto+SaaS+escalable;Apasionado+por+la+Arquitectura+Limpia;Backend+Developer;Certificado+por+Dev+Senior+Code;Programando+soluciones+reales;Proceso+de+proyecto+de+excusas+medicas" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Desarrollador+Fullstack;Especialista+en+JavaScript;Construyendo+Sistemas+SaaS+Escalables;Apasionado+por+la+Arquitectura+Limpia;Backend+Developer;Programando+soluciones+reales" />
 </p>
 
 ---
 
 ## 🚀 Sobre mí
 
-💻 Desarrollador Fullstack enfocado en backend con Node.js  
-🧠 Interesado en arquitectura escalable y buenas prácticas  
-🔐 Experiencia en autenticación con JWT y control de roles  
-📈 En constante aprendizaje sobre diseño de sistemas  
+💻 Desarrollador Fullstack con enfoque en Backend  
+⚙️ Experiencia construyendo APIs REST escalables  
+🔐 Implementación de autenticación con JWT y control de roles  
+🧱 Trabajo con arquitectura MVC + Services  
+📈 En constante aprendizaje sobre diseño de sistemas y buenas prácticas  
+🎯 Orientado a soluciones reales y proyectos productivos  
 
 ---
 
-## 🛠 Tecnologías
+## 🛠 Stack Tecnológico
+
+### 🔹 Backend
+- Node.js
+- Express
+- MongoDB
+- Mongoose
+- JWT
+- Bcrypt
+
+### 🔹 Frontend
+- React
+- JavaScript (ES6+)
+- HTML5
+- CSS3
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,react,js,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,react,js,html,css,git,github,vscode" />
+</p>
+
+---
+
+## 📊 Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=juandavidjdgo1909-star&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=juandavidjdgo1909-star&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ## 📌 Proyecto Destacado
 
-🚀 **SaaS-Ticket**  
-Sistema completo de gestión de membresías y facturación con arquitectura MVC + Services.
+### 🚀 SaaS-Ticket
+Sistema completo de gestión de membresías y facturación.  
+✔ Autenticación JWT  
+✔ Control de roles  
+✔ Arquitectura MVC + Services  
+✔ Cálculo de ingresos mensuales  
+✔ Backend modular y escalable  
+
+---
+
+## 🧠 Actualmente aprendiendo
+
+- Diseño avanzado de sistemas
+- Optimización y rendimiento
+- Arquitecturas distribuidas
+- Buenas prácticas en producción
 
 ---
 
