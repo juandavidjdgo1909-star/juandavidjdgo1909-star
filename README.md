@@ -37,18 +37,6 @@
 
 ---
 
-## 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=juandavidjdgo1909-star&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=juandavidjdgo1909-star&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 📌 Proyecto Destacado
 
 ### 🚀 SaaS-Ticket
