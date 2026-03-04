@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hola, soy Juan David Garcia Olaya</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Desarrollador+Fullstack;Especialista+en+JavaScript+(Vanilla+js);Mejor+proyecto+SaaS+escalable;Apasionado+por+la+Arquitectura+Limpia" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Desarrollador+Fullstack;Especialista+en+JavaScript+(Vanilla+js);Mejor+proyecto+SaaS+escalable;Apasionado+por+la+Arquitectura+Limpia;Backend+Developer;Certificado+por+Dev+Senior+Code;Programando+soluciones+reales;Proceso+de+proyecto+de+excusas+medicas" />
 </p>
 
 ---
