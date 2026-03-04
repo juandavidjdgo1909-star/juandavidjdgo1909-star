@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hola, soy Juan David Garcia Olaya</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Desarrollador+Fullstack;Especialista+en+Node.js+y+React;Construyendo+SaaS+Escalables;Apasionado+por+la+Arquitectura+Limpia" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Desarrollador+Fullstack;Especialista+en+JavaScript+(Vanilla+js);Mejor+proyecto+SaaS+escalable;Apasionado+por+la+Arquitectura+Limpia" />
 </p>
 
 ---
@@ -33,7 +33,7 @@ Sistema completo de gestión de membresías y facturación con arquitectura MVC 
 ## 📫 Conecta conmigo
 
 <p align="center">
-  <a href="https://linkedin.com/in/TU_LINK">
+  <a href="https://linkedin.com/in/www.linkedin.com/in/juan-david-garcia-olaya-js">
     <img src="https://img.shields.io/badge/LinkedIn-Perfil-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
