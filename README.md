@@ -9,7 +9,6 @@
 ## 🚀 Sobre mí
 
 💻 Desarrollador Fullstack con enfoque en Backend  
-⚙️ Experiencia construyendo APIs REST escalables  
 🔐 Implementación de autenticación con JWT y control de roles  
 🧱 Trabajo con arquitectura MVC + Services  
 📈 En constante aprendizaje sobre diseño de sistemas y buenas prácticas  
