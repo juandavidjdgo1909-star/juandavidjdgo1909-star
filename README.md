@@ -21,20 +21,6 @@
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,react,js,git,github,vscode" />
 </p>
 
----
-
-## 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=juandavidjdgo1909-star&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=juandavidjdgo1909-star&theme=tokyonight" />
-</p>
-
----
-
 ## 📌 Proyecto Destacado
 
 🚀 **SaaS-Ticket**  
