@@ -26,7 +26,6 @@
 - Bcrypt
 
 ### 🔹 Frontend
-- React
 - JavaScript (Vanilla js)
 - HTML5
 - CSS3
