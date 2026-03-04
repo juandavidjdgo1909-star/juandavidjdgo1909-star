@@ -1,11 +1,11 @@
 # Hola, soy Juan David 👋
 
 🚀 Desarrollador Backend enfocado en Node.js y MongoDB  
-💻 Apasionado por la arquitectura MVC y sistemas SaaS  
+💻 Apasionado por la arquitectura MVC  
 📍 Colombia  
 
 ## 🔥 Tecnologías
-- JavaScript
+- JavaScript (Vanilla)
 - Node.js
 - Express
 - MongoDB
@@ -14,4 +14,3 @@
 
 ## 📌 Proyectos Destacados
 - SaaS-Ticket – Sistema de membresías y facturación
-- EventMaster – Gestión de eventos y reservas
